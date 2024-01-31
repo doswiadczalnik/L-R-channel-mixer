@@ -8,7 +8,7 @@ This tool mix left and right channel of video file into one, mono WAV file. It c
 - Automatically extracts left and right audio channel from video file and mix them into one WAV file
 - doesn't modify oryginal videos
 
-###Usage
+### Usage
 **You need ffmpeg.exe file in the same folder as script. You must download it from Internet before use!**
 
 1. copy your video files into one folder
